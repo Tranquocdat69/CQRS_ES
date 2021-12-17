@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Account.Common/1.0.0": {
+        "dependencies": {
+          "CQRS": "1.0.0"
+        },
+        "runtime": {
+          "Account.Common.dll": {}
+        }
+      },
+      "CQRS/1.0.0": {
+        "runtime": {
+          "CQRS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Account.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CQRS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

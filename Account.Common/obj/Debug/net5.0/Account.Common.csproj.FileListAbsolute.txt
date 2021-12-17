@@ -1,0 +1,15 @@
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\Account.Common\obj\Debug\net5.0\Account.Common.csproj.AssemblyReference.cache
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\Account.Common\obj\Debug\net5.0\Account.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\Account.Common\obj\Debug\net5.0\Account.Common.AssemblyInfoInputs.cache
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\Account.Common\obj\Debug\net5.0\Account.Common.AssemblyInfo.cs
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\Account.Common\obj\Debug\net5.0\Account.Common.csproj.CoreCompileInputs.cache
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\Account.Common\bin\Debug\net5.0\Account.Common.deps.json
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\Account.Common\bin\Debug\net5.0\Account.Common.dll
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\Account.Common\bin\Debug\net5.0\ref\Account.Common.dll
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\Account.Common\bin\Debug\net5.0\Account.Common.pdb
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\Account.Common\bin\Debug\net5.0\CQRS.dll
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\Account.Common\bin\Debug\net5.0\CQRS.pdb
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\Account.Common\obj\Debug\net5.0\Account.Common.csproj.CopyComplete
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\Account.Common\obj\Debug\net5.0\Account.Common.dll
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\Account.Common\obj\Debug\net5.0\ref\Account.Common.dll
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\Account.Common\obj\Debug\net5.0\Account.Common.pdb

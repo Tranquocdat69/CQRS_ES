@@ -1,0 +1,12 @@
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\CQRS\bin\Debug\net5.0\CQRS.deps.json
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\CQRS\bin\Debug\net5.0\CQRS.dll
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\CQRS\bin\Debug\net5.0\ref\CQRS.dll
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\CQRS\bin\Debug\net5.0\CQRS.pdb
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\CQRS\obj\Debug\net5.0\CQRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\CQRS\obj\Debug\net5.0\CQRS.AssemblyInfoInputs.cache
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\CQRS\obj\Debug\net5.0\CQRS.AssemblyInfo.cs
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\CQRS\obj\Debug\net5.0\CQRS.csproj.CoreCompileInputs.cache
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\CQRS\obj\Debug\net5.0\CQRS.dll
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\CQRS\obj\Debug\net5.0\ref\CQRS.dll
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\CQRS\obj\Debug\net5.0\CQRS.pdb
+C:\Workspace\.NET_Core\5.0\CQRS_EventSourcing\BankAccount\CQRS\obj\Debug\net5.0\CQRS.csproj.AssemblyReference.cache
